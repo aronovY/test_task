@@ -1,11 +1,20 @@
 ## Что бы развернуть этот сервер на своем пк нужно:
-1. Скачать этот репозиторий себе. (Пример для unix систем).
+* Скачать этот репозиторий себе в свободную директорию. (Пример для unix систем).
 ```
 $ git clone https://github.com/aronovY/test_task.git
 ```
-2. В директории application запустить фаил main.py.
+* Создать и запустить виртуальное окружение в директории:
 ```
-$ python main.py
+$ python3 -m venv my-env-name
+$ source my-env-name/bin/activate
+```
+* Установить зависимости:
+```
+$ pip3 install -r requirements.txt
+```
+* Перейти в директорию test_task/application и запустить фаил main.py.
+```
+$ python3 main.py
 ```
 --------------------
 ### Тестовые данные запросов в Postman:
