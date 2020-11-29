@@ -1,0 +1,1 @@
+WORKERS_FILE_NAME = 'workers.json'

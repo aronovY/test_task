@@ -1,0 +1,191 @@
+{
+    "1": {
+        "surname": "Гуринович",
+        "name": "Антон",
+        "patronymics": "Русланович",
+        "date": "18.5.1975",
+        "sex": "male"
+    },
+    "2": {
+        "surname": "Котковская",
+        "name": "Надежда",
+        "patronymics": "Васильевна",
+        "date": "23.12.1976",
+        "sex": "female"
+    },
+    "3": {
+        "surname": "Цыганок",
+        "name": "Юрий",
+        "patronymics": "Степанович",
+        "date": "16.4.1977",
+        "sex": "male"
+    },
+    "4": {
+        "surname": "Музыченко",
+        "name": "Юрий",
+        "patronymics": "Дмитриевич",
+        "date": "20.6.1978",
+        "sex": "male"
+    },
+    "5": {
+        "surname": "Музыченко",
+        "name": "Елена",
+        "patronymics": "Степановна",
+        "date": "22.7.1978",
+        "sex": "female"
+    },
+    "6": {
+        "surname": "Гуринович",
+        "name": "Надежда",
+        "patronymics": "Сергеевна",
+        "date": "3.9.1992",
+        "sex": "female"
+    },
+    "7": {
+        "surname": "Котковская",
+        "name": "Елена",
+        "patronymics": "Антоновна",
+        "date": "10.10.1984",
+        "sex": "female"
+    },
+    "8": {
+        "surname": "Аронов",
+        "name": "Валерий",
+        "patronymics": "Антонович",
+        "date": "1.7.1992",
+        "sex": "male"
+    },
+    "9": {
+        "surname": "Савицкий",
+        "name": "Юрий",
+        "patronymics": "Максимович",
+        "date": "23.5.1981",
+        "sex": "male"
+    },
+    "10": {
+        "surname": "Савицкая",
+        "name": "Светлана",
+        "patronymics": "Андреевна",
+        "date": "24.9.1979",
+        "sex": "female"
+    },
+    "11": {
+        "surname": "Терпиловский",
+        "name": "Валерий",
+        "patronymics": "Максимович",
+        "date": "24.8.1989",
+        "sex": "male"
+    },
+    "12": {
+        "surname": "Цыганок",
+        "name": "Светлана",
+        "patronymics": "Руслановна",
+        "date": "5.6.1997",
+        "sex": "female"
+    },
+    "13": {
+        "surname": "Музыченко",
+        "name": "Светлана",
+        "patronymics": "Максимовна",
+        "date": "3.4.1986",
+        "sex": "female"
+    },
+    "14": {
+        "surname": "Гуринович",
+        "name": "Антон",
+        "patronymics": "Сергеевич",
+        "date": "26.6.1978",
+        "sex": "male"
+    },
+    "15": {
+        "surname": "Аронова",
+        "name": "Ирина",
+        "patronymics": "Сергеевна",
+        "date": "28.2.1983",
+        "sex": "female"
+    },
+    "16": {
+        "surname": "Козловский",
+        "name": "Валерий",
+        "patronymics": "Антонович",
+        "date": "11.5.1998",
+        "sex": "male"
+    },
+    "17": {
+        "surname": "Гуринович",
+        "name": "Юрий",
+        "patronymics": "Дмитриевич",
+        "date": "12.4.1997",
+        "sex": "male"
+    },
+    "18": {
+        "surname": "Козловский",
+        "name": "Сергей",
+        "patronymics": "Антонович",
+        "date": "21.1.1985",
+        "sex": "male"
+    },
+    "19": {
+        "surname": "Карабко",
+        "name": "Сергей",
+        "patronymics": "Генадьевич",
+        "date": "1.10.1982",
+        "sex": "male"
+    },
+    "20": {
+        "surname": "Савицкий",
+        "name": "Валерий",
+        "patronymics": "Максимович",
+        "date": "11.2.1979",
+        "sex": "male"
+    },
+    "21": {
+        "surname": "Савицкая",
+        "name": "Надежда",
+        "patronymics": "Руслановна",
+        "date": "9.10.1993",
+        "sex": "female"
+    },
+    "22": {
+        "surname": "Котковская",
+        "name": "Елена",
+        "patronymics": "Андреевна",
+        "date": "19.10.1998",
+        "sex": "female"
+    },
+    "23": {
+        "surname": "Котковский",
+        "name": "Валерий",
+        "patronymics": "Генадьевич",
+        "date": "5.11.1975",
+        "sex": "male"
+    },
+    "24": {
+        "surname": "Аронов",
+        "name": "Юрий",
+        "patronymics": "Максимович",
+        "date": "7.3.1998",
+        "sex": "male"
+    },
+    "25": {
+        "surname": "Музыченко",
+        "name": "Екатерина",
+        "patronymics": "Анатольевна",
+        "date": "30.1.1995",
+        "sex": "female"
+    },
+    "26": {
+        "surname": "Козловский",
+        "name": "Андрей",
+        "patronymics": "Максимович",
+        "date": "19.3.2000",
+        "sex": "male"
+    },
+    "27": {
+        "surname": "Варшавская",
+        "name": "Ирина",
+        "patronymics": "Антоновна",
+        "date": "15.12.1984",
+        "sex": "female"
+    }
+}
